@@ -1,0 +1,323 @@
+Abaco Barb
+Abstang
+Abyssinian
+Achham
+Adaev
+Aegidienberger
+Afghan
+African Wild Ass
+Akhal-Teke
+Albanian
+Altai
+Alter Real
+American Cream Draft
+American Indian Horse
+American Miniature Horse
+American Paint Horse
+American Quarter Horse
+American Saddlebred
+American Warmblood
+Andalusian
+Andravida
+Anglo-Arabian
+Anglo-Kabarda
+Appaloosa
+AraAppaloosa
+Arabian
+Ardennes
+Arenberg-Nordkirchen
+Argentinian Sport Horse
+Asturcón
+Australian Brumby
+Australian Draught Horse
+Australian Stock Horse
+Austrian Warmblood
+Auvergne
+Azerbaijan
+Azteca
+Balearic
+Balikun
+Ban-ei
+Banker
+Barb
+Bashkir
+Basotho Pony
+Batak
+Bavarian Warmblood
+Belgian Draft
+Belgian Warmblood
+Black Forest Horse
+Blazer
+Boer
+Boulonnais
+Brabant
+Brandenburger
+Brazilian Sport Horse
+Breton
+British Riding Pony
+British Spotted Pony
+Brumby
+Budyonny
+Burguete
+Burma
+Byelorussian Harness
+Camargue
+Camarillo White Horse
+Campolina
+Canadian Horse
+Canadian Pacer
+Carthusian
+Caspian
+Castilian
+Castillonnais
+Cayuse Indian Pony
+Cerbat Mustang
+Chakouyi
+Charentais
+Charolais
+Cheju
+Chilean Horse
+Choctaw Horse
+Cleveland Bay
+Clydesdale
+Colorado Ranger
+Comtois
+Connemara Pony
+Criollo
+Croatian Coldblood
+Cuban Criollo
+Cumberland Island Horse
+Curly Horse
+Czech Warmblood
+Dales Pony
+Danish Warmblood
+Danube Delta
+Djerma
+Doela
+Dongola
+Draft Trotter
+Drum Horse
+Dulmen Pony
+Dutch Draft
+Dutch Harness
+Dutch Warmblood
+East Bulgarian
+East Friesian
+Einsiedler
+Eleia
+Eriskay Pony
+Estonian Draft
+Estonian Native Horse
+Exmoor Pony
+Falabella
+Faroe Pony
+Fell Pony
+Finnish Horse
+Fjord
+Fleuve
+Fouta
+Frederiksborg
+French Saddle Pony
+French Trotter
+Friesian
+Galiceño
+Galician Pony
+Galloway
+Gelderlander
+Georgian Grande
+German Coach Horse
+German Coldblood
+German Riding Pony
+German Sport Horse
+Gidran
+Gypsy Horse
+Hackney
+Hackney Pony
+Haflinger
+Hanoverian
+Hequ
+Highland Pony
+Hirzai
+Hispano-Árabe
+Hispano-Bretón
+Holsteiner
+Horro
+Hucul Pony
+Hunter
+Iomud
+Irish Cob
+Irish Draught
+Irish Sport Horse
+Italian Heavy Draft
+Jaca Navarra
+Java
+Jielin
+Jinzhou
+Jutland
+Kabarda
+Kaimanawa
+Kalmyk
+Karabair
+Karabakh
+Karacabey
+Karachai
+Karossier
+Kathiawari
+Kentucky Mountain Saddle Horse
+Kerry Bog Pony
+Kiger Mustang
+Kinsky-Horse
+Kisber Felver
+Kladruby
+Knabstrupper
+Konik
+Kustanair
+Latvian
+Lipizzaner
+Lithuanian Heavy Draught
+Lokaresh
+Lusitano
+Lyngshest
+M'Bayar
+Malopolski
+Mangalarga
+Manipuri
+Maremmano
+Marismeño
+Marwari
+Mecklenburger
+Mérens
+Messara Horse
+Metis Trotter
+Mezőhegyesi sport-horse
+Miniature horse
+Misaki
+Missouri Fox Trotter
+Miyako
+Mongolian
+Monterufolino
+Morab
+Morgan
+Mountain Pleasure Horse
+Moyle Horse
+Murakoz Horse
+Mustang
+Namib Desert Horse
+National Show Horse
+New Forest Pony
+New Kirgiz
+New Mexican Horse
+Newfoundland Pony
+Nivernais
+Nokota
+Nonius
+Noric
+North Swedish Horse
+Northeastern
+Norwegian Fjord
+Oldenburg
+Orlov Trotter
+Paint Horse
+Palomino
+Pantaneiro
+Paso Fino
+Percheron
+Persano
+Peruvian Paso
+Pindos Pony
+Pinia
+Pleven
+Poitevin
+Polish Arabian
+Polish Coldblood
+Polish Halfbred
+Polish Konik
+Pontic
+Pottok
+Przewalski's Horse
+Purosangue Orientale
+Qinghai
+Quarter Horse
+Racking Horse
+Rheinland Pfalz Saar
+Rhinelander
+Riwoche
+Rocky Mountain Horse
+Romanian Sport Horse
+Rottal
+Russian Don
+Russian Heavy Draft
+Russian Trotter
+Sable Island Horse
+Saddlebred
+Salerno Horse
+Samolaco
+San Fratello
+Sarcidano Horse
+Sardinian Anglo-Arab
+Sardinian Horse
+Schleswiger Heavy Draft
+Schwarzwälder Fuchs
+Selle Français
+Senner
+Shagya Arabian
+Shan
+Shetland Pony
+Shire
+Siciliano Indigeno
+Silesian
+Slovakian Warmblood
+Slovenian Lipizzan
+Sokolsky Horse
+Sorraia
+South German Coldblood
+Southern German Heavy Draft
+Spanish Mustang
+Spanish-Norman
+Spiti Horse
+Standardbred
+Sudan Country-Bred
+Suffolk Punch
+Swedish Ardennes
+Swedish Warmblood
+Swiss Warmblood
+Taishuh
+Tarpan
+Tennessee Walking Horse
+Tersk
+Thessalian
+Thoroughbred
+Tiger Horse
+Tokara
+Tori
+Trait Du Nord
+Trakehner
+Turkoman
+Ukrainian Riding Horse
+Unmol Horse
+Uzunyayla
+Ventasso Horse
+Virginia Highlander
+Vlaamperd
+Vladimir Heavy Draft
+Vyatka
+Waler
+Walkaloosa
+Warmblood
+Warlander
+Welsh Cob
+Welsh Pony
+West African Barb
+Westphalian
+Wielkopolski
+Württemberger
+Xilingol
+Yakut
+Yanqi
+Yili
+Yonaguni
+Zaniskari Pony
+Zangersheide
+Zemaitukas
+Zhemaichu
+Zweibrücker
