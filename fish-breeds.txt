@@ -1,0 +1,19 @@
+Angelfish
+Barracuda
+Betta
+Catfish
+Clownfish
+Discus
+Eel
+Guppy
+Koi
+Mackerel
+Neon Tetra
+Oscar
+Rainbow Trout
+Salmon
+Swordfish
+Tilapia
+Tuna
+Wrasse
+Zebrafish
