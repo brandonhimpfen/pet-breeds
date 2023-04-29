@@ -1,0 +1,59 @@
+African Grey Parrot
+American Goldfinch
+Bald Eagle
+Barn Owl
+Black Swan
+Blue Jay
+Budgerigar
+Canadian Goose
+Cardinal
+Chicken
+Chimney Swift
+Cockatiel
+Cockatoo
+Common Loon
+Cormorant
+Cowbird
+Crane
+Crow
+Dove
+Duck
+Eagle
+Eastern Bluebird
+Eastern Towhee
+Emu
+Falcon
+Flamingo
+Goose
+Great Blue Heron
+Hawk
+Hummingbird
+Kingfisher
+Kite
+Kiwi
+Loon
+Macaw
+Magpie
+Mallard Duck
+Osprey
+Ostrich
+Owl
+Parakeet
+Parrot
+Peacock
+Pelican
+Penguin
+Pheasant
+Pigeon
+Puffin
+Quail
+Raven
+Red-tailed Hawk
+Robin
+Seagull
+Sparrow
+Stork
+Swan
+Turkey
+Vulture
+Woodpecker
